@@ -1,0 +1,1 @@
+from /web/htdocs/elaring/voila/venv/lib/python3.9/site-packages/voila import app as application

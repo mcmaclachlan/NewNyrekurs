@@ -1,5 +1,5 @@
-#!/bin/bash.
+#!/bin/bash
 
 set -ex
 
-jupyter lab voila/render/Nyrekurs.ipynb
+voila/render/Nyrekurs.ipynb

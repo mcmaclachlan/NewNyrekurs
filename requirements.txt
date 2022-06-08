@@ -7,4 +7,4 @@ pandas==1.3.4
 voila==0.2.16
 traitlets
 
-git+https://github.com/afeiszli/jupyter-voila-extension.git
+

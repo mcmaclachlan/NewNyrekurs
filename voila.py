@@ -1,4 +1,4 @@
 def setup_voila():
   return {
-    'command': ['voila', '-p', '8899']
+    'command': ['voila Nyrekurs.ipynb', '-p', '8899']
   }
